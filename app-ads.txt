@@ -1,0 +1,5 @@
+# app-ads.txt — IAB Tech Lab v1.0
+# Authorized seller list for all apps under publisher pub-7350086765149412
+# Covers: AURIC: Eclipse (iOS), Verba - deutsch (iOS), and any future apps.
+
+google.com, pub-7350086765149412, DIRECT, f08c47fec0942fa0
